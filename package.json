@@ -1,0 +1,25 @@
+{
+  "name": "satya",
+  "version": "1.0.0",
+  "description": "pritish magia ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritish135/test.git"
+  },
+  "keywords": [
+    "banda"
+  ],
+  "author": "satya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritish135/test/issues"
+  },
+  "homepage": "https://github.com/pritish135/test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
